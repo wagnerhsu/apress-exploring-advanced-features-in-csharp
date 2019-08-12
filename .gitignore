@@ -1,2 +1,8 @@
 obj/
 bin/
+v16/
+*.suo
+packages/
+packages
+.vs/
+*.user
